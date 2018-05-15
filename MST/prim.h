@@ -1,6 +1,7 @@
 #include <stdio.h> 
 #include <limits.h>
 #include "graph.h"
+#include "printing.h"
 
 int i,v;
 int V;
